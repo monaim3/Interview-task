@@ -1,0 +1,233 @@
+@media screen and (max-width: 768px){
+    .sidebar {
+        width: 164px;
+    }
+    .sidebar a {
+        padding-left: 0px;
+        height: 62px;
+        width: 100%;
+        line-height: 64px;
+      
+        font-size: 12px;
+    }
+    .setting {
+        width: 41%;
+       
+    }
+    .icon-area {
+        width: 32%;
+        float: left;
+        margin-top: 5%;
+        margin-left: 19%;
+    }
+    .deal2 {
+        width: 8%;
+        margin-top: -2%;
+    }
+    .vehicell-input2 {
+        width: 9%;
+    }
+    .vehicell-input1 {
+        width: 23%;
+    }
+    .total {
+        margin-left: 17%;
+       
+    }
+    .icon-plus i {
+        margin-left: 9px;
+        margin-top: 20px;
+        color: #3C7EF3;
+    }
+    .card1 {
+        width: 23.5%;
+        padding:0px;
+        margin-left: 1%;
+        margin-top: 3%;
+    }
+    .arrow-angle2 {
+        width: 10%;
+        float: right;
+    }
+    .table1 {
+        padding: 0px;
+        margin-top: 14%;
+        border-radius: 10px;
+    }
+    .table-wrapper {
+        width: 23.5%;
+       
+    }
+    .tab2 {
+        height: 54vh;
+    }
+    .scroll-bar {
+        width: 74%;
+    }
+  }
+  @media (min-width: 992px) and (max-width: 1024px){ 
+
+    .vehicell {
+        margin-left: 26%;
+        margin-top: 2%;
+    }
+    .setting {
+        width: 31%;
+    }
+    .deal2 {
+        width: 18%;
+    }
+    .icon-area {
+        width: 24%;
+    }
+    .total {
+        margin-left: 19%;
+    }
+    .tab2 {
+        height: 51vh;
+    }
+    .sidebar {
+        width: 218px;
+    }
+    .arrow-angle2 {
+        display: none;
+    }
+  }
+  @media (min-width: 400px) and (max-width: 600px){ 
+    .sidebar {
+        display: none;
+    }
+    .deal {
+        margin-left: 0%;
+        border-bottom: none;
+    }
+    .deal2 {
+        width: 100%;
+        margin-top: -2%;
+        text-align: center;
+    }
+    .icon-area {
+        width: 61%;
+        margin-left: 28%;
+    }
+    .setting {
+        margin-left: 20%;
+        width: 57%;
+    }
+    .vehicell-input4 {
+        width: 34%;  
+        margin-top: 4%;
+        margin-left: 22%;
+    }
+    .vehicell-input3 {
+        width: 20%;
+    }
+    .vehicell {
+        margin-left: 10%;
+      
+    }
+    .vehicell-input1 {
+        width: 43%;
+    }
+    .vehicell-input2 {
+        width: 22%;
+    }
+    .total {
+        margin-left: 10%;
+    }
+    .cart {
+        margin-left: 0%;
+    }
+    .card1 {
+        width: 63.5%;
+        margin-left: 21%;
+    }
+    .table-wrapper {
+        width: 79.5%;
+    }
+    .scroll-bar {
+        width: 60%;
+    }
+    .tab2 {
+        width: 79%;
+    }
+  }
+  @media  (min-width: 360px) and (max-width: 375px){ 
+    .sidebar {
+       
+        display: none;
+    }
+    .deal {
+        margin-left: 0%;
+        border-bottom: none;
+    }
+    .deal2 {
+        width: 100%;
+        margin-top: -2%;
+        text-align: center;
+    }
+    .icon-area {
+        width: 56%;
+        margin-left: 28%;
+    }
+    .icon-plus i {
+        margin-left: 98px;
+    }
+    .setting {
+   
+        width: 100%;
+        margin-left: 18%;
+    }
+    .vehicell {
+        margin-left: 1%;
+        margin-top: 2%;
+    }
+    .vehicell-input1 {
+        width: 37%;
+    }
+    .vehicell-input2 {
+        width: 18%;
+    }
+    .vehicell-input4 {
+        width: 39%;
+        margin-top: 3%;
+        margin-left: 22%;
+    }
+    .vehicell-input3 {
+        border: 1px solid black;
+        width: 24%;
+    
+    }
+    .total {
+        margin-left: 6%;
+    }
+    .cart {
+        margin-left: 15%;
+    }
+    .card1 {
+        width: 78.5%;
+    }
+    .user-table {
+        margin-left: 12%;
+    }
+    .table-wrapper {
+        width: 91.5%;
+    }
+    .tab2 {
+        height: 50vh;
+    }
+    .tab2 {
+        width: 90%;
+        float: left;
+    }
+    .scroll-bar {
+        width: 77%;
+    }
+    .scroll-bar {
+        margin-left: 14%;
+    }
+    .button-area {
+        margin-left: 14%;
+        margin-top: 1%;
+    }
+  }
